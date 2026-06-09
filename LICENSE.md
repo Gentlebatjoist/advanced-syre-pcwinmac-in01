@@ -1,4 +1,4 @@
-# 
+# VIP Advanced SystemCare extensiones para Mac OS | Código abierto Advanced SystemCare extensiones para PC Windows. Con integración de menú contextual y optimizador de servicios — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
